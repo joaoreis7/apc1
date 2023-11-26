@@ -1,6 +1,6 @@
 # Algorítmos de Programação de Computadores I
 
-Repositóros críado para submeter os códigos da disciplina.
+Repositórios críados para submeter os códigos da disciplina.
 
 ## Estrtura de pastas
 
